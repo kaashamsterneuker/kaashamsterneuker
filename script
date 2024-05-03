@@ -21,7 +21,7 @@ getgenv().Setting = {
         ["Teleport Y"] = 1000
     },
     ["Race V4"] = {
-        ["Enable"] = enable,
+        ["Enable"] = true,
     },
     ["Invisible"] = false,
     ["White Screen"]  =false,
@@ -89,7 +89,7 @@ getgenv().Setting = {
             },
         },
         ["Sword"] = {
-            ["Enable"] = enable,
+            ["Enable"] = true,
             ["Delay"] = 1,
             ["Skills"] = {
                 ["Z"] = {
